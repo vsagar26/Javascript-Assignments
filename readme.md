@@ -33,6 +33,6 @@
 [Deployed Link](https://master--todo-task-js.netlify.app/)
 
 - Rock Paper Scissor <br>
-[Github Repo Link]() <br>
-[Deployed Link]()
+[Github Repo Link](https://github.com/vsagar26/rock_paper_scissor_js) <br>
+[Deployed Link](https://rock-paper-scissor-js-vs.netlify.app/)
 
